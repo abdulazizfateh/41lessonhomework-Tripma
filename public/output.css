@@ -1660,9 +1660,6 @@ video {
 .align-super {
   vertical-align: super;
 }
-.font-\[\] {
-  font-family: ;
-}
 .font-\[NS500\] {
   font-family: NS500;
 }
@@ -2077,12 +2074,12 @@ video {
 
 @font-face {
     font-family: NS400;
-    src: url(../public/fonts/NunitoSans_10pt-Regular.ttf);
+    src: url(../fonts/NunitoSans_10pt-Regular.ttf);
 }
 
 @font-face {
     font-family: NS500;
-    src: url(../public/fonts/NunitoSans_10pt-Medium.ttf);
+    src: url(../fonts/NunitoSans_10pt-Medium.ttf);
 }
 
 .container1{
